@@ -104,19 +104,18 @@ This project can be divided into **four major modules**:
 
 ### 🧾 Publication & Recognition
 
-### 📘 Paper Title
-**Density-Based Traffic Optimization Using YOLO**
+1) **Interraction With Government Authority :**  
+We visited **local government authorities** to present our project and demonstrate **how the density-based traffic optimization system works using YOLO**. This discussion focused on **potential real-world deployment and traffic management integration**.
+<p align="center">
+  <img src="path_to_your_image_here" alt="Government Interaction" width="600"/>
+</p>
+2) **Research Paper Publication:**  
+Our paper based on this project, **"Density-Based Traffic Optimization Using YOLO"**, was presented at **CIACON 2025** and published in **IEEE Xplore**. The paper details our methodology, experiments, and results for adaptive traffic signal optimization.
+📄 View the Paper [here](https://ieeexplore.ieee.org/document/11189675).
 
-### 🏛️ Conference
-CIACON 2025
+------------------------------------------
 
-### 🏫 Institution
-G.H. Raisoni College of Engineering, Nagpur, India
-
-### 🎯 Summary
-The system demonstrates adaptive green-time logic, achieving measurable improvements in throughput, congestion reduction, and emergency response efficiency.
-
-### 👥 Contributors
+ 👥 Contributors
 
 | Name               | Role                           |
 |-------------------|--------------------------------|
@@ -126,12 +125,12 @@ The system demonstrates adaptive green-time logic, achieving measurable improvem
 | Priyanshu Rodge    | Implementation & Testing       |
 | Dr. Vibha Bora     | Project Guide & Supervisor     |
 
-### 🙏 Acknowledgement
+###  Acknowledgement
 We sincerely thank **Dr. Vibha Bora**, our project guide, for her continuous guidance, valuable insights, and encouragement throughout this research.  
 Special thanks to the **Department of Electronics Engineering, G.H. Raisoni College of Engineering, Nagpur** for providing resources and support.
 
 ### 🪪 License
-This project is licensed under the **MIT License** – see the `LICENSE` file for details.
+This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
 
 ### 📬 Contact
 **Email:** sankalptirpude2003@gmail.com  
