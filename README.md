@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-10-18 at 15 02 01_24f640e5](https://github.com/user-attachments/assets/425a5459-d377-4d70-805d-38cf93b85a87)<p align="center">
+<p align="center">
  <img width="538" height="318" alt="image" src="https://github.com/user-attachments/assets/9cf87f49-59e0-4f05-af9b-ca51970b8ca3" />
 </p>
 
@@ -108,8 +108,7 @@ This project can be divided into **four major modules**:
 We visited **local government authorities** to present our project and demonstrate **how the density-based traffic optimization system works using YOLO**. This discussion focused on **potential real-world deployment and traffic management integration**.
 
 <p align="center">
-  <img src="![WhatsApp Image 2025-10-18 at 15 02 01_24f640e5](https://github.com/user-attachments/assets/67878be7-0909-4404-a262-49ec71f55260)
-" alt="Government Interaction" width="600"/>
+  <img src="https://github.com/user-attachments/assets/67878be7-0909-4404-a262-49ec71f55260" alt="Government Interaction" width="600"/>
 </p>
 
 2) **Research Paper Publication:**  
