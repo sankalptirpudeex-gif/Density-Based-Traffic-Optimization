@@ -63,7 +63,7 @@ This project can be divided into **four major modules**:
 ### 🧩 System Workflow
 
 <p align="center">
- <img height=300px src="./assets/workflow-diagram.png" alt="System Workflow">
+ <img width="463" height="522" alt="image" src="https://github.com/user-attachments/assets/f3d4011d-2b6a-4441-b8a0-e63d33faa908" />
 </p>
 
 **Step 1:** Live traffic feed captured from CCTV cameras.  
@@ -89,15 +89,16 @@ This project can be divided into **four major modules**:
 *Vehicle Detection*
 
 <p align="center">
- <img height=400px src="./assets/vehicle-detection.png" alt="Vehicle Detection">
+ <img width="474" height="458" alt="vehicle-detection" src="https://github.com/user-attachments/assets/3798bbb4-c093-4bf4-914a-ab6476341d0d" />
+
 </p>
 
 <br>
 
-*Adaptive Signal Simulation*
+*Statistics*
 
 <p align="center">
- <img src="./assets/demo.gif" alt="Traffic Simulation">
+ <img width="415" height="137" alt="stats" src="https://github.com/user-attachments/assets/fe3f0877-f57d-4599-a2a0-62b4ffcfe507" />
 </p>
 
 ------------------------------------------
@@ -117,26 +118,29 @@ Our paper based on this project, **"Density-Based Traffic Optimization Using YOL
 
 ------------------------------------------
 
- 👥 Contributors
+### 👥 Contributors
 
 | Name               | Role                           |
-|-------------------|--------------------------------|
+|-------------------|-------------------------------- |
 | Sankalp Tirpude    | Lead Developer & Researcher    |
 | Samiksha Dhawale   | Co-Researcher                  |
 | Purva Rathi        | Simulation & Analysis          |
 | Priyanshu Rodge    | Implementation & Testing       |
-| Dr. Vibha Bora     | Project Guide & Supervisor     |
+
+------------------------------------------
 
 ###  Acknowledgement
 We sincerely thank **Dr. Vibha Bora**, our project guide, for her continuous guidance, valuable insights, and encouragement throughout this research.  
 Special thanks to the **Department of Electronics Engineering, G.H. Raisoni College of Engineering, Nagpur** for providing resources and support.
 
+------------------------------------------
 ### 🪪 License
 This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
 
+------------------------------------------
 ### 📬 Contact
 **Email:** sankalptirpude2003@gmail.com  
-**LinkedIn:** [Sankalp-Tirpude](https://www.linkedin.com/in/sankalp-tirpude-1b015a247/).
+**LinkedIn:** [Sankalp-Tirpude](https://www.linkedin.com/in/sankalp-tirpude-1b015a247/)
 
 ---
 
